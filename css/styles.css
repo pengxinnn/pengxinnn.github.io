@@ -9987,7 +9987,7 @@ a.text-black:hover, a.text-black:focus {
 }
 
 .text-white-50 {
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: white !important;
 }
 
 .text-hide {
@@ -10159,7 +10159,7 @@ body {
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: white;
   }
   #mainNav .nav-link:hover {
     color: rgba(255, 255, 255, 0.75);
@@ -10214,12 +10214,12 @@ body {
   background-size: cover;
 }
 .masthead h1 {
-  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: 'Open Sans', sans-serif;
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
   -webkit-background-clip: text;
           background-clip: text;
 }
