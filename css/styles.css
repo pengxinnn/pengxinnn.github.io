@@ -10021,6 +10021,10 @@ button.bg-black:focus {
   color: #D8BFD8 !important;
 }
 
+.text-green {
+  color: #11ABB0 !important;
+}
+
 .text-blue {
   color: #4682B4 !important;
 }
