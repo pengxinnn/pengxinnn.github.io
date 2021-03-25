@@ -74,6 +74,16 @@ body {
   outline: 0 !important;
 }
 
+.float-container {
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+} 
+
 hr {
   box-sizing: content-box;
   height: 0;
@@ -476,6 +486,11 @@ mark,
 
 .img-fluid {
   max-width: 100%;
+  height: auto;
+}
+
+.img-fluid2 {
+  max-width: 40%;
   height: auto;
 }
 
